@@ -1,0 +1,2 @@
+# adaptatuidea
+adaptatuidea
